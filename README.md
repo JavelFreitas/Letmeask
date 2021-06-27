@@ -1,6 +1,62 @@
-# Readme em desenvolvimento...
+# Let me Ask
 
-Screenshots da aplicação já disponíveis na pasta
+Aplicação Desenvolvida durante a Next Level Week Together
+
+```
+Voltado ao produtor de conteúdo, Letmeask simplifica a comunicação com a sua comunidade, tornando a interação direta entre produtor e público cada vez mais próxima.
+```
+
+## Aprendizados
+
++ React Básico (Properties, Components)
++ React com Typescript
++ React Functional Components, Hooks
++ Firebase
++ SCSS
+
+## Telas e funcionalidades
+
++ As telas se encontram no seguinte [link](https://github.com/JavelFreitas/Letmeask/tree/main/screenshots)
+
+### Tela Inicial 
+
+![Tela Inicial](https://github.com/JavelFreitas/Letmeask/blob/main/screenshots/TelaInicial.jpeg)
+
+
++ Login com Conta Google
++ Entrar em salas por código
+
+### Tela após login
+
+![Tela após login](https://github.com/JavelFreitas/Letmeask/blob/main/screenshots/TelaNovaSala.jpeg)
+
+```
+Após estar logado
+```
++ Criar nova Sala
++ Redirecionar para tela inicial para escolha de sala
+
+### Tela da Sala de Perguntas
+
+![Tela da Sala de Perguntas](https://github.com/JavelFreitas/Letmeask/blob/main/screenshots/TelaSalaPergunta.jpeg)
+
++ Enviar pergunta
++ Copiar código da sala
++ Dar like em comentários
+
+### Tela Admin da Sala
+![Tela Admin da Sala](https://github.com/JavelFreitas/Letmeask/blob/main/screenshots/TelaAdmin.jpeg)
+
++ Encerrar Sala
++ Copiar código da sala
++ Excluir pergunta
++ Destacar pergunta
++ Marcar como respondida
+
+### Firebase
+![Firebase](https://github.com/JavelFreitas/Letmeask/blob/main/screenshots/TelaAdmin.jpeg)
+
++ Dados no Firebase
 
 # Getting Started with Create React App
 
