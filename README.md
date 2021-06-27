@@ -3,7 +3,8 @@
 Aplicação Desenvolvida durante a Next Level Week Together
 
 ```
-Voltado ao produtor de conteúdo, Letmeask simplifica a comunicação com a sua comunidade, tornando a interação direta entre produtor e público cada vez mais próxima.
+Voltado ao produtor de conteúdo, Letmeask simplifica a comunicação com a sua comunidade,
+tornando a interação direta entre produtor e público cada vez mais próxima.
 ```
 
 ## Aprendizados
